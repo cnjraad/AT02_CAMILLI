@@ -1,0 +1,13 @@
+/* YOUR CUSTOM STYLES */
+
+form input {
+	position: relative;
+	z-index: 2;
+}
+
+@media(min-width: 600px) {
+	.foto-perfil {
+		max-width: 400px!important;
+		margin: 0 auto;
+	}
+}
