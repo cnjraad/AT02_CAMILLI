@@ -1,0 +1,3 @@
+#AT02 - TVDB
+
+Minha proposta nesta aplicação WEB é usar o banco de dados disposto na API THE TVDB v2, baseado na comunidade de programas de televisão. O objetivo é ser a fonte de informação mais completa e precisa em séries de TV de vários idiomas e países. Esta API atualmente é usada por vários projetos diferentes, na tentativa de estar completo, é possível obter quase tudo que você busca. Selecione "TVDB" e, sem necessidade de registrar uma conta você pode, então, buscar séries para pesquisa e obter particularidades da série encontrada.
